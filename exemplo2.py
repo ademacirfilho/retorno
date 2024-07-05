@@ -1,1 +1,5 @@
-print("Outro arquivo")
+a = 1
+
+while a <= 100:
+    print(a)
+    a += 1

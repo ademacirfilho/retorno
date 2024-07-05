@@ -1,5 +1,5 @@
-idade = int(input("Em que ano você nasceu?"))
+anoNasc = int(input("Em que ano você nasceu? "))
 
-calcidade = 2024 - idade
+calcIdade = 2024 - anoNasc
 
-print(f"Sua idade é: {calcidade}")
+print(f"Sua idade é: {calcIdade}")
